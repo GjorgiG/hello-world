@@ -1,1 +1,2 @@
-This is work for Lab 8.
+This is work for Lab 8. I added this from the terminal window.
+
